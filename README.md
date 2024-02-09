@@ -1,7 +1,6 @@
-
-
 <h1 align="center">Hi 👋, I'm ARIRAM</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariram24&label=Profile%20views&color=0e75b6&style=flat" alt="ariram24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariram24" alt="ariram24" /></a> </p>
@@ -14,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ariram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ari ram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ari ram" height="30" width="40" /></a>
 <a href="https://fb.com/ariram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ariram" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_dearz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_dearz" height="30" width="40" /></a>
 </p>
@@ -24,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariram24&show_icons=true&locale=en&layout=compact" alt="ariram24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?https://www.google.com/imgres?imgurl=https%3A%2F%2Fquicksolutionindia.com%2Fwp-content%2Fuploads%2F2023%2F02%2Fweb-development-company-1-2022.jpg&tbnid=WnOM0GBx-EdPlM&vet=12ahUKEwjLhtDI2p2EAxUFsmMGHW8jBysQMygZegUIARDcAg..i&imgrefurl=https%3A%2F%2Fquicksolutionindia.com%2Fwebsite-development-service%2F&docid=PRV_wqeKK7HP7M&w=500&h=373&q=web%20development&hl=en&client=ms-android-vivo-rvo3&ved=2ahUKEwjLhtDI2p2EAxUFsmMGHW8jBysQMygZegUIARDcAgusername=ariram24&show_icons=true&locale=en" alt="ariram24" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariram24&show_icons=true&locale=en" alt="ariram24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariram24&" alt="ariram24" /></p>
